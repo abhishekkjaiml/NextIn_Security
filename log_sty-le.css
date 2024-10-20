@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-color:#f5f5f5;
+    background-image:url("wp11296145-desktop-shelf-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.si-sty_le{
+    width:280px;
+    height:340px;
+    background-color:var(--color-canvas-subtle);
+    margin: 40px auto;
+    border: 2px solid rgba(0, 0, 0, 0.808);
+    border-radius: 5px;
+}
+.id_pg{
+    text-align: center;
+    font-family:Segoe UI Semibold ;
+    margin-top: 15px;
+    color: rgb(71, 79, 85);
+    font-size: xx-large;
+}
+#pro-file{
+    width:80px;
+    height:80px;
+    border-radius: 80px;
+    margin-top: 12px;
+    border:1px solid rgb(22, 22, 22);
+    
+}
+.us-name{
+    font-size: 13px;
+    font-family:Segoe UI Semibold ;
+    margin-left:5px;
+}
+#posi-qg{
+    text-align:center;
+}
+.in-put{
+    margin-left: 5px;
+    border-radius: 3px;
+    border-width: 1px;
+    width:95%;
+    margin-right:5px;
+    height:32px;
+    padding:5px;
+    margin-bottom: 15px;
+    background-color: transparent;
+}
+em{
+    float: right;
+    font-size: 12px;
+    margin-top:2px;
+    margin-right:5px;
+    margin-left: 5px;
+}
+.us-pass{
+    font-size: 12px;
+    font-family:Segoe UI Semibold ;
+    margin-left:5px;
+    
+}
+.butto-n{
+    width:95%;
+    margin-left: 5px;
+    margin-right: 5px;
+    height:32px;
+    border-radius: 4px;
+    border: 1px solid hsl(120, 100%, 25%);
+    background-color: hsl(187, 100%, 25%);
+    color:white;
+}
+.fjru{
+    text-align: center;
+}
+
+#op-ti{
+    color:rgb(22, 22, 22);
+    font-family:Segoe UI Semibold ;
+}

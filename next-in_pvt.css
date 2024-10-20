@@ -1,0 +1,217 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+div.file-1{
+    height:1250px;
+}
+body{
+    background-color:rgba(255, 255, 255, 0.877);
+}
+
+nav.nav_lab {
+    /* -------navigation bar property*/
+    width:100%;
+    height:80px;
+    background-color: #ffffffe0;
+    
+}
+img#com_log{
+    /* --------nextin company logo property*/
+    width: 150px;
+    height: 47px;
+    margin-top: 20px ;
+    margin-left:25px;
+
+}
+nav.nav_lab li.tag{
+    /* -------navigation bar property/size font & much more*/
+    display: inline-block;
+    padding-right:20px;
+    text-transform: uppercase;
+    font-family:Segoe UI Semibold ;
+}
+ul.pat_b42{
+    float: right;
+    padding:    20px;
+    margin-top: 5px;
+}
+a#rog_s{
+    color:black;
+    
+}
+a{
+    color:black;
+}
+section.com_def{
+    width:100%;
+    height:240px;
+    background-image:url("Blog_Header_CPD_CyberSecurity.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    -moz-background-inline-policy: bounding-box;
+    margin-bottom: 10px;
+    
+
+}
+span#bac_col{
+    font-size: xx-large;
+    font-family: sans-serif;
+    margin-left: 65px;
+    margin-top: 10px;
+    color: #000000f0;
+}
+p#bac_col_id{
+    font-size:18px;
+    margin-top:15px;
+    font-family:math;
+    color:#161515e0;
+    margin-left: 5%;
+    text-align:justify;
+}
+#bac_col_id_2{
+    font-size:18px;
+    font-family:math;
+    color:#161515e0;
+    margin-left: 5%;
+    text-align:justify;
+}
+a.con-mai{
+    color:rgb(151, 167, 142)
+}
+section.com_def-i{
+    width:100%;
+    height:240px;
+    background-color:transparent;
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-position: right;
+    -moz-background-inline-policy: bounding-box;
+}
+span.pro-du_ct{
+    margin-left: 5%;
+    font-family: Segoe UI Semibold;
+    font-size:1.5vmax;
+}
+#lis-pro_z{
+    text-decoration: none;
+    margin-left: 5%;
+    font-family: Segoe UI Semibold;
+
+}
+/**
+#li_st-pro{
+    text-decoration: none;
+    display:block;
+    color:#706c6cf0;
+}
+------------------*/
+img.cy-img_1{
+    width:300px;
+    height:200px;
+    margin-top: 5%;
+    margin-left:5%;
+    border-radius: 5px;
+    margin-bottom: 5%;
+}
+
+
+/*------
+#tit_1-c{
+    margin-left:11%;
+    font-family: Segoe UI Semibold;
+}
+------*/
+span#des-cy_pro_to{
+    float:right;
+    margin-top:7%;
+    margin-right:5%;
+    text-align:justify;
+    font-family: Segoe UI Semibold ;
+    font-size:16.5px;
+    color: rgba(26, 25, 25, 0.877);
+}
+#li_st-pro-i{
+    text-decoration: none;
+    display:block;
+    color:#706c6cf0;
+    text-transform: uppercase;
+}
+.li_si-pro{
+    font-family: math;
+}
+ul.li-sn-t{
+    font-size: 14.5px;
+    margin-left:17px;
+    margin-top:20px; 
+}
+li#sec-1_pr{
+    margin-bottom: 15px;
+}
+.cy-img_2{
+    width:300px;
+    height:200px;
+    margin-top: 5%;
+    margin-left:5%;
+    border-radius: 5px;
+    
+    margin-right:5%;
+}
+.we-b_des_1{
+    font-family: Segoe UI Semibold;
+    margin-left:5%;
+    float:right;
+}
+span#des-cy_pro_to_i{
+    float:left;
+    margin-left:5%;
+    margin-top:7%;
+    margin-right:15.5%;
+    text-align:justify;
+    font-family: Segoe UI Semibold ;
+    font-size:16.5px;
+    color: rgba(26, 25, 25, 0.877);
+}
+ul.li-sn-t_i{
+    font-size: 14.5px;
+    margin-left:17px;
+    margin-top:20px; 
+}
+/*#des-cy_pro_to_ii{
+    float:right;
+    margin-top:7%;
+    margin-right:37%;
+    text-align:justify;
+    font-family: Segoe UI Semibold ;
+    font-size:16.5px;
+    color: rgba(26, 25, 25, 0.877);
+}
+.li-sn-t_ii{
+    font-size: 14.5px;
+    margin-left:17px;
+    margin-top:20px; 
+}
+.ne_x{
+    float: left;
+    width:300px;
+    height:200px;
+    margin-left:350px;
+}*/
+
+
+/* -------------- NEXT IN GAMING--------------*/
+/*.nv_gen{
+    width:100%;
+    height:80px;
+    background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4bdd888b-fe5c-4358-8c46-5362c7ce3154/dehn7hz-56d75669-c27f-4d2b-8e30-91dc2c542e4c.jpg/v1/fill/w_1192,h_670,q_70,strp/cool_gaming_background_4k_by_skullbreaker000_dehn7hz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGJkZDg4OGItZmU1Yy00MzU4LThjNDYtNTM2MmM3Y2UzMTU0XC9kZWhuN2h6LTU2ZDc1NjY5LWMyN2YtNGQyYi04ZTMwLTkxZGMyYzU0MmU0Yy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.oV9fk5Nb0ps6-6_Omk6AfhkNvdqDyQRvV_hLyys1S6Q');
+    background-repeat: no-repeat;
+    background-position:center;
+}*/
+
+/* -------------about Next In*/
+
+
+
+
